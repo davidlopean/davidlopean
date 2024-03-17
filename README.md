@@ -6,10 +6,6 @@
 <p>Cursé un FP Grado Medio de Sistemas Microinformáticos y Redes y me estoy formando de manera autodidacta a través de plataformas como Datacamp, Codecademy y FreeCodeCamp. </p>
 <p>También a través de Youtube, resolviendo retos lógicos de programación propuestos por MoureDev.</p>
 
-![Codecademy Badge](https://img.shields.io/badge/Codecademy-1F4056?logo=codecademy&logoColor=fff&style=for-the-badge)
-![DataCamp Badge](https://img.shields.io/badge/DataCamp-03EF62?logo=datacamp&logoColor=000&style=for-the-badge)
-![Exercism Badge](https://img.shields.io/badge/Exercism-009CAB?logo=exercism&logoColor=fff&style=for-the-badge)
-![freeCodeCamp Badge](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff&style=for-the-badge)
 <br>
 
 ## ![programming_6062646](https://github.com/davidlopean/davidlopean/assets/141661643/975bbc37-c889-4cdf-9002-0bfb7a4f8681) Actualmente estoy
@@ -20,7 +16,7 @@
 
 ## ![lifelong-learning_12641313](https://github.com/davidlopean/davidlopean/assets/141661643/e5cfd187-a702-4520-bf70-f7dea7b032f8) Conocimientos
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 ### Programación
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,45 +44,31 @@
 ![Adobe Illustrator Badge](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff&style=for-the-badge)
 
 ### Otros
-![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) <br>
+![Visual-Studio-Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Trello Badge](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff&style=for-the-badge)
 ![Microsoft Excel Badge](https://img.shields.io/badge/Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=fff&style=for-the-badge)
 
-
-
-
-
-<br>
-
 ##### 👀 Próximamente me gustaría empezar con:
-
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![image](https://github.com/davidlopean/davidlopean/assets/141661643/1a45251d-7c21-4b7a-8676-fb1201dc473c)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
+![image](https://github.com/davidlopean/davidlopean/assets/141661643/1a45251d-7c21-4b7a-8676-fb1201dc473c)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
 ![Swift Badge](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=fff&style=for-the-badge)
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![Unity Badge](https://img.shields.io/badge/Unity-FFF?logo=unity&logoColor=000&style=for-the-badge)
 ![Unreal Engine Badge](https://img.shields.io/badge/Unreal%20Engine-0E1128?logo=unrealengine&logoColor=fff&style=for-the-badge)
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge)
 ![R Badge](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=fff&style=for-the-badge)
 ![Cinema 4D Badge](https://img.shields.io/badge/Cinema%204D-011A6A?logo=cinema4d&logoColor=fff&style=for-the-badge)
-
-
 <br>
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)
+<br>
 
+
+## 📨 Contacto:
 ```
-“No conocerás el miedo. El miedo mata la mente.
-El miedo es la pequeña muerte que conduce a la destrucción total.
-Afrontaré mi miedo. Permitiré que pase sobre mí y a través de mí.
-Y cuando haya pasado girare mi ojo interior para escrutar su camino.
-Allá donde haya pasado el miedo ya no habrá nada. Solo estare yo.”
-
-― Frank Herbert, Dune
+davidlopean@gmail.com
 ```
